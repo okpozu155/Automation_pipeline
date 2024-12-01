@@ -1,0 +1,3 @@
+blast_db: "nt"
+fasta_file: "data/sequences.fasta"
+output_dir: "results"
