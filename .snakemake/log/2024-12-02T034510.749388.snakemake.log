@@ -1,0 +1,6 @@
+Building DAG of jobs...
+MissingInputException in rule parse_fasta in file /media/okpozu/DC0ABADC0ABAB2BE/projects/Automation_pipeline/snakefile, line 7:
+Missing input files for rule parse_fasta:
+    output: results/parsed_sequences.txt
+    affected files:
+        data/sequences.fasta
